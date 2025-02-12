@@ -5,8 +5,6 @@
 
 **让企业级应用开发效率提升10倍的全栈低代码解决方案** 🚀
 
-📞 **立即咨询** | [官网链接](https://www.cdyzy.net/) | [在线演示](https://www.cdyzy.net/TryChooseTest.html)
-
 ## 🌟 核心优势
 ### 多数据库支持
 - **无缝兼容**：MySQL 8.x / SQL Server 2008+ / 达梦DM8 / Oracle
@@ -34,8 +32,43 @@
 | 企业微信 | uniapp | 已集成对接，支持自建应用和服务商模式 |
 | 钉钉 | uniapp | 已集成对接，支持自建应用和服务商模式 |
 
-## 🎁系统截图
-**系统主页面**
-![系统主页面](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=acbdfe2ff4494c60a08bac63c3af43dc)
+📞 **立即咨询** | [官网链接](https://www.cdyzy.net/) | [在线演示](https://www.cdyzy.net/TryChooseTest.html)
 
+## 🎁系统截图
+**1、系统主页面**
+![系统主页面-填单](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=acbdfe2ff4494c60a08bac63c3af43dc)
+![系统主页面-列表](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=f676e345f5964ab6aca2c72a1512f510)
+![系统主页面-列表](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=b9faf3bf2daa40f59b8bf888d9d9bea9)
+**2、列表页面配置**
+![列表页面配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=851cc339e440414b8dd99a7b82ea8924)
+![列表页面配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=1242f356326248ea95986b2450e66fb5)
+![列表页面配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=f55d458bc00f4f81963da0e85d6b2360)
+![列表页面配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=34a79cdb8aac4518b5e437a81dba3ecb)
+**3、标准合同配置**
+![标准合同](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=bb45d29d9873495b8f03d2b929c4564a)
+![标准合同](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=9f70c816c1894682a9f4b0de62edfc4c)
+**4、打印配置**
+![打印配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=4b32f87f5fa44de2af61785aedbb8fb0)
+![打印配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=5df40a8a8c0e4fba9a3076b29ad8f564)
+**5、移动端配置**
+![移动端列表](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=f0b72ab5a1a24b67a020ec712fdc77e5)
+![移动端列表](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=44f9cd9ab93646d9a4ee81a78f2367c6)
+![移动端列表](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=24e7898ce9564712aee3abf2eaad306e)
+**6、审批流程配置**
+![审批流程配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=d6ddee32aa0a46168d0e2186f7fea308)
+**7、门户首页配置**
+![门户配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212162148.png?FileId=3f1fac19880b45adad6b6aa8e7ec7348)
+![门户配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212162148.png?FileId=363b5b095d3a43ae9fa086cc29159d17)
+**9、报表配置**
+![报表配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212162621.png?FileId=3169e50fa5d94464a7fb57fd8d03da73)
+![报表配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212162621.png?FileId=5d79559f9b164cf9aae1cb2a3335cf2b)
+**10、代码截图**
+![代码](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212163111.png?FileId=ac12592ddfc54aedb5af9cdeea608991)
+![代码](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212163111.png?FileId=7a7a014c7ba649b3ac1dc617f33c851f)
+![代码](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212163111.png?FileId=f6373cd68c354367ab89c319c6baf4c2)
+
+
+
+📞 **立即咨询** | [官网链接](https://www.cdyzy.net/) | [在线演示](https://www.cdyzy.net/TryChooseTest.html)
+![微信咨询](https://www.cdyzy.net/images/erp/levitate/benmaiweixin.png)
 
