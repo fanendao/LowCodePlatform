@@ -1,8 +1,5 @@
-# LowCodePlatform
-低代码平台（Net6.0+、Vue、SqlSugar）
-# 云中忆低代码平台 ✨
-**（Net6.0+、Vue、SqlSugar）**
-
+# 云中忆低代码平台LowCodePlatform ✨
+**低代码平台（Net6.0+、Vue、SqlSugar）**
 **让企业级应用开发效率提升10倍的全栈低代码解决方案** 🚀
 
 ## 🌟 核心优势
