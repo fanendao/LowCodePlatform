@@ -42,30 +42,30 @@
 ![列表页面配置](imgs/f55d458bc00f4f81963da0e85d6b2360.png)
 ![列表页面配置](imgs/34a79cdb8aac4518b5e437a81dba3ecb.png)
 **3、标准合同配置**
-![标准合同](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=bb45d29d9873495b8f03d2b929c4564a)
-![标准合同](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=9f70c816c1894682a9f4b0de62edfc4c)
+![标准合同](imgs/bb45d29d9873495b8f03d2b929c4564a.png)
+![标准合同](imgs/9f70c816c1894682a9f4b0de62edfc4c.png)
 **4、打印配置**
-![打印配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=4b32f87f5fa44de2af61785aedbb8fb0)
-![打印配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=5df40a8a8c0e4fba9a3076b29ad8f564)
+![打印配置](imgs/4b32f87f5fa44de2af61785aedbb8fb0.png)
+![打印配置](imgs/5df40a8a8c0e4fba9a3076b29ad8f564.png)
 **5、移动端配置**
-![移动端列表](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=f0b72ab5a1a24b67a020ec712fdc77e5)
-![移动端列表](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=44f9cd9ab93646d9a4ee81a78f2367c6)
-![移动端列表](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=24e7898ce9564712aee3abf2eaad306e)
+![移动端列表](imgs/f0b72ab5a1a24b67a020ec712fdc77e5.png)
+![移动端列表](imgs/44f9cd9ab93646d9a4ee81a78f2367c6.png)
+![移动端列表](imgs/24e7898ce9564712aee3abf2eaad306e.png)
 **6、审批流程配置**
-![审批流程配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=d6ddee32aa0a46168d0e2186f7fea308)
+![审批流程配置](imgs/d6ddee32aa0a46168d0e2186f7fea308.png)
 **7、门户首页配置**
-![门户配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212162148.png?FileId=3f1fac19880b45adad6b6aa8e7ec7348)
-![门户配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212162148.png?FileId=363b5b095d3a43ae9fa086cc29159d17)
+![门户配置](imgs/3f1fac19880b45adad6b6aa8e7ec7348.png)
+![门户配置](imgs/363b5b095d3a43ae9fa086cc29159d17.png)
 **9、报表配置**
-![报表配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212162621.png?FileId=3169e50fa5d94464a7fb57fd8d03da73)
-![报表配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212162621.png?FileId=5d79559f9b164cf9aae1cb2a3335cf2b)
+![报表配置](imgs/3169e50fa5d94464a7fb57fd8d03da73.png)
+![报表配置](imgs/5d79559f9b164cf9aae1cb2a3335cf2b.png)
 **10、代码截图**
-![代码](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212163111.png?FileId=ac12592ddfc54aedb5af9cdeea608991)
-![代码](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212163111.png?FileId=7a7a014c7ba649b3ac1dc617f33c851f)
-![代码](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212163111.png?FileId=f6373cd68c354367ab89c319c6baf4c2)
+![代码](imgs/ac12592ddfc54aedb5af9cdeea608991.png)
+![代码](imgs/7a7a014c7ba649b3ac1dc617f33c851f.png)
+![代码](imgs/f6373cd68c354367ab89c319c6baf4c2.png)
 
 
-![微信咨询](https://www.cdyzy.net/images/erp/levitate/benmaiweixin.png)
+![微信咨询](imgs/benmaiweixin.png.png)
 
 📞 **立即咨询** | [官网链接](https://www.cdyzy.net/) | [在线演示](https://www.cdyzy.net/TryChooseTest.html)
 
