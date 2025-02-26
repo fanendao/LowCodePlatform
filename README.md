@@ -33,7 +33,7 @@
 
 ## 🎁系统截图
 **1、系统主页面**
-![系统主页面-填单](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=acbdfe2ff4494c60a08bac63c3af43dc)
+![系统主页面-填单](imgs/acbdfe2ff4494c60a08bac63c3af43dc.png)
 ![系统主页面-列表](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=b9faf3bf2daa40f59b8bf888d9d9bea9)
 
 **2、列表页面配置**
