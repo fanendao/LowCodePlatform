@@ -34,13 +34,13 @@
 ## 🎁系统截图
 **1、系统主页面**
 ![系统主页面-填单](imgs/acbdfe2ff4494c60a08bac63c3af43dc.png)
-![系统主页面-列表](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=b9faf3bf2daa40f59b8bf888d9d9bea9)
+![系统主页面-列表](imgs/b9faf3bf2daa40f59b8bf888d9d9bea9.png)
 
 **2、列表页面配置**
-![列表页面配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=851cc339e440414b8dd99a7b82ea8924)
-![列表页面配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=1242f356326248ea95986b2450e66fb5)
-![列表页面配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=f55d458bc00f4f81963da0e85d6b2360)
-![列表页面配置](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=34a79cdb8aac4518b5e437a81dba3ecb)
+![列表页面配置](imgs/851cc339e440414b8dd99a7b82ea8924.png)
+![列表页面配置](imgs/1242f356326248ea95986b2450e66fb5.png)
+![列表页面配置](imgs/f55d458bc00f4f81963da0e85d6b2360.png)
+![列表页面配置](imgs/34a79cdb8aac4518b5e437a81dba3ecb.png)
 **3、标准合同配置**
 ![标准合同](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=bb45d29d9873495b8f03d2b929c4564a)
 ![标准合同](https://sys.cdyzy.net/cdyzy/Api/System/FileApi/ShowFileById/20250212160356.png?FileId=9f70c816c1894682a9f4b0de62edfc4c)
