@@ -65,7 +65,7 @@
 ![代码](imgs/f6373cd68c354367ab89c319c6baf4c2.png)
 
 
-![微信咨询](imgs/benmaiweixin.png.png)
+![微信咨询](imgs/benmaiweixin.png)
 
 📞 **立即咨询** | [官网链接](https://www.cdyzy.net/) | [在线演示](https://www.cdyzy.net/TryChooseTest.html)
 
